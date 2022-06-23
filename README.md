@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JyotirmoyGupta
-- 👀 I’m interested in development
-- 🌱 I’m currently learning web development
-- 💞️ I’m currently in my learning phase and wish to collaborate on projects in the future
+- 👋 Hi, I’m @JyotirmoyGupta.
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m currently in my learning phase and wish to collaborate on projects in the future.
 - 📫 How to reach me ? Mail me at jyotirmoy.gupta.bce20@iitbhu.ac.in
 
 <!---

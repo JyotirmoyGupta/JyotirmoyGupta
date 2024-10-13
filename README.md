@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JyotirmoyGupta.
 - 👀 I’m interested in business, data analysis and data science.
 - 🌱 I’m currently studying about GANs and LLMs.
-- 💞️ I’m currently in my learning phase and wish to collaborate on projects in the future.
-- 📫 How to reach me ? Mail me at jyotirmoygupta2024@gmail.com
+- 💞️ Reach out to me for business and collaboration purposes at. How ?
+- 📫 Mail me at jyotirmoygupta2024@gmail.com
 
 <!---
 JyotirmoyGupta/JyotirmoyGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
